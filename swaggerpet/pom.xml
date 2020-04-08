@@ -28,7 +28,7 @@
     <groupId>apigee</groupId>
     <artifactId>poc</artifactId>
     <version>1.0</version>
-    <name>trial-poc</name>
+    <name>CICDTest</name>
     <packaging>pom</packaging>
 <!-- optional tests
     <profiles>
