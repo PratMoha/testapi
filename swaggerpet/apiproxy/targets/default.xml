@@ -1,0 +1,16 @@
+<TargetEndpoint name="default">
+    <Description />
+    <FaultRules />
+    <PreFlow name="PreFlow">
+        <Request />
+        <Response />
+    </PreFlow>
+    <PostFlow name="PostFlow">
+        <Request />
+        <Response />
+    </PostFlow>
+    <Flows />
+    <HTTPTargetConnection>
+        <Properties />
+        <LoadBalancer><Server name="petstore.swagger.io" /></LoadBalancer><Path>/v2</Path></HTTPTargetConnection>
+</TargetEndpoint>

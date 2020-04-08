@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="22" name="Swagger Petstore">
+    <Basepaths>/version1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1585317222376</CreatedAt>
+    <CreatedBy>pratyush.mohapatra1@tcs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Version1</DisplayName>
+    <LastModifiedAt>1585317222376</LastModifiedAt>
+    <LastModifiedBy>pratyush.mohapatra1@tcs.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:1492c415d267a16f2a70e3dfede97d98539922b2928b2af429522ca14fa3b31e606374072fa703db364d80e34f5d5d6cd6dc136993d40c1c60299f112ad62050</ManifestVersion>
+    <Policies>
+        <Policy>Quota</Policy>
+        <Policy>RF-InvalidRequest</Policy>
+        <Policy>Spike-Arrest</Policy>
+        <Policy>extractData</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

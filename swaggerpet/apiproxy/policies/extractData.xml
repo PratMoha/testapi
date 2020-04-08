@@ -1,0 +1,7 @@
+<ExtractVariables async="false" continueOnError="false" enabled="true" name="extractData">
+    <DisplayName>extractData</DisplayName>
+    <FaultRules />
+    <Source>response</Source>
+    <Properties />
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+<URIPath><Pattern ignoreCase="false">/pet/{petId}</Pattern><Pattern ignoreCase="false">/pet/{petId}/uploadImage</Pattern><Pattern ignoreCase="false">/store/order/{orderId}</Pattern><Pattern ignoreCase="false">/user/{username}</Pattern></URIPath><QueryParam name="status"><Pattern ignoreCase="true">{status}</Pattern></QueryParam><QueryParam name="tags"><Pattern ignoreCase="true">{tags}</Pattern></QueryParam><QueryParam name="username"><Pattern ignoreCase="true">{username}</Pattern></QueryParam><QueryParam name="password"><Pattern ignoreCase="true">{password}</Pattern></QueryParam></ExtractVariables>

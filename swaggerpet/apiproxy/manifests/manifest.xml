@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Quota" version="SHA-512:eec59d6199a88547c8caf16a161d45a89fcf5d15b75ee44ab65460e185b855cbc58d9313ad2cf5b91a133f39189fbb0ea7468cb70e4989fa531d760bdb1bee4e"/>
+        <VersionInfo resourceName="RF-InvalidRequest" version="SHA-512:8833aecaee795ce366f3c45a045a553a1972b07c18c6ad465353170d367dd05a1f7a0466bd78804d48ff0ba93fafdcae22fba3911f9f5d46bf3eefcd005cae1b"/>
+        <VersionInfo resourceName="Spike-Arrest" version="SHA-512:c0579c58f7b698a117ec23b2bb8fae09e1fd60c949edbd62790e0bef9d430fe7f974ae61c0d8f459006639f0c80d72cca26b0e925769b35a4521b06f0a657e9a"/>
+        <VersionInfo resourceName="extractData" version="SHA-512:502bef7a8cf4a379894eee715b46e8ed9cbbc07ef097084530e492e7c09302b279aee14f19f56a8b4865dc9dfa17e4038b091d5da4ae8a41105b9376d73ce27d"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:f7346e141cd258fc8e27b6dc62a80120176c9d629f90f656a4edcf249849444ad53f18bcfcb5e3fc8f333a55c6e45330478d77a5e07921620fb8125288222121"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c3349b97f9b12cdb7b2fe23a26cd5f2b6d7373264eaa47f63de80c1d01f9dd2c41813061af15495b32a775c3d9bfa00a4f1bf322c81d76a49bb155c0714c2e4b"/>
+    </TargetEndpoints>
+</Manifest>
